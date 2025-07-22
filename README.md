@@ -1,10 +1,20 @@
 # 📘 EdTech Assignment Tracker
 
-A simple web app for teachers to post assignments and students to submit them.
+A simplified assignment tracking system for an EdTech platform.  
+Teachers can create assignments, and students can view and submit their responses.  
+Built with **FastAPI** for backend and **React + Vite + Tailwind CSS** for frontend.
 
 ## 🔗 Live Demo
 
 [View Deployed App](https://edtech-assignment-tracker.netlify.app/)
+
+## 💡 Description
+
+This project is a role-based EdTech tool designed to help:
+- 🧑‍🏫 **Teachers** create and manage assignments
+- 🧑‍🎓 **Students** view and submit assignments
+
+The application demonstrates basic CRUD functionality, role-based login (UI only), and simulated submission tracking — ideal for EdTech platforms and learning management systems (LMS).
 
 ## 💻 Tech Stack
 
@@ -13,10 +23,10 @@ A simple web app for teachers to post assignments and students to submit them.
 
 ## 🚀 Features
 
-- Teacher: Create assignments, view student submissions
+- Teacher: Create assignments, view submissions
 - Student: View & submit assignments
-- Role-based login
-- Swagger API docs
+- Role-based login interface
+- Swagger docs at `/docs` (FastAPI)
 
 ## 🛠️ Run Locally
 
@@ -24,3 +34,6 @@ A simple web app for teachers to post assignments and students to submit them.
 ```bash
 cd backend
 uvicorn main:app --reload
+
+📄 License
+This project is developed as part of assignment License © 2025 Abhishek Vats
