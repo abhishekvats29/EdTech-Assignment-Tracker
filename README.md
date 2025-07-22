@@ -28,12 +28,5 @@ The application demonstrates basic CRUD functionality, role-based login (UI only
 - Role-based login interface
 - Swagger docs at `/docs` (FastAPI)
 
-## 🛠️ Run Locally
-
-### Backend
-```bash
-cd backend
-uvicorn main:app --reload
-
-📄 License
+## 📄 License
 This project is developed as part of assignment License © 2025 Abhishek Vats
