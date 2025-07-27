@@ -1,4 +1,4 @@
-# 📘 EdTech Assignment Tracker
+# EdTech Assignment Tracker
 
 A simplified assignment tracking system for an EdTech platform.  
 Teachers can create assignments, and students can view and submit their responses.  
@@ -8,11 +8,11 @@ Built with **FastAPI** for backend and **React + Vite + Tailwind CSS** for front
 
 [View Deployed App](https://edtech-assignment-tracker.netlify.app/)
 
-## 💡 Description
+## Description
 
 This project is a role-based EdTech tool designed to help:
-- 🧑‍🏫 **Teachers** create and manage assignments
-- 🧑‍🎓 **Students** view and submit assignments
+- **Teachers** create and manage assignments
+- **Students** view and submit assignments
 
 The application demonstrates basic CRUD functionality, role-based login (UI only), and simulated submission tracking — ideal for EdTech platforms and learning management systems (LMS).
 
@@ -21,7 +21,7 @@ The application demonstrates basic CRUD functionality, role-based login (UI only
 - Frontend: React + Vite + Tailwind CSS
 - Backend: FastAPI + SQLite
 
-## 🚀 Features
+## Features
 
 - Teacher: Create assignments, view submissions
 - Student: View & submit assignments
